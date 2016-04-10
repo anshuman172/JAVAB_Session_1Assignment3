@@ -1,0 +1,2 @@
+two examples of data that cannot be stored in a variable of type int
+String and Long
